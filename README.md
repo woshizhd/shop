@@ -1,7 +1,8 @@
 # shop
 shopping shopping ——用贫穷暴打消费主义
 
----
+---  
+
 
 ## 一.知己知彼
 #### 认识你自己、问清你自己、真的需要么
@@ -18,14 +19,16 @@ shopping shopping ——用贫穷暴打消费主义
 - Tampermonkey脚本：[优惠购](https://greasyfork.org/zh-CN/scripts/378081-%E4%BC%98%E6%83%A0%E8%B4%AD)————方便地呈现、支持全面
 
 #### 抢购助手
-- Tampermonkey脚本：[抢购助手](https://greasyfork.org/zh-CN/scripts/393577-%E6%B7%98%E5%AE%9D-%E5%A4%A9%E7%8C%AB-%E8%81%9A%E5%88%92%E7%AE%97-%E4%BA%AC%E4%B8%9C-%E8%8B%8F%E5%AE%81%E6%8A%A2%E8%B4%AD%E5%8A%A9%E6%89%8Bv2)————支持全面
+- Tampermonkey脚本：[抢购助手](https://greasyfork.org/zh-CN/scripts/393577-%E6%B7%98%E5%AE%9D-%E5%A4%A9%E7%8C%AB-%E8%81%9A%E5%88%92%E7%AE%97-%E4%BA%AC%E4%B8%9C-%E8%8B%8F%E5%AE%81%E6%8A%A2%E8%B4%AD%E5%8A%A9%E6%89%8Bv2)————支持全面  
+
 
 ## 二.购买方式
 #### 团购
 - [哇靠团](http://mywakao.com/)————稳定更新、质量不错。建议先观看“跟团指南”、关注公众号
 #### 网购
 - 电子类产品推荐京东自营————无它，售后有保障
-- 海淘推荐在张大妈先学习学习：[SMZDM](https://haitao.smzdm.com/)
+- 海淘推荐在张大妈先学习学习：[SMZDM](https://haitao.smzdm.com/)  
+
 
 ## 三.某些产品购买参考
 #### 笔记本
