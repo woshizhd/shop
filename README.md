@@ -8,7 +8,7 @@ shopping shopping ——用贫穷暴打消费主义
 > 强烈建议观看视频：[用贫穷暴打消费主义](https://www.bilibili.com/video/av83908288/)
 #### 了解商品
 > 参考文章：[如何了解陌生领域的品牌？](https://www.ymdie.com/archives/13120)[三年过后，我终于建好了全国最大的装修建材抽查数据库](https://www.ymdie.com/archives/456561)
-- 搜索关键词：[个人整理——created mubu.com](https://mubu.com/doc/354m4HFHza-)
+- 搜索关键词
     - 如：“净水器 消委会/消协” [demo](https://www.google.com/search?q=%E5%87%80%E6%B0%B4%E5%99%A8+%E6%B6%88%E5%A7%94%E4%BC%9A) 
 - 参考网站
     - [亚马跌-ymdie.com](https://www.ymdie.com/)
